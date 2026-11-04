@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I enjoy turning raw data into business insights
 
 ### About Me
-I’m a Data & Analytics Engineer passionate about building scalable data pipelines, automating ETL workflows, and creating reliable analytics solutions on Azure.
+I’m a Data Engineer passionate about building scalable data pipelines, automating ETL workflows, and creating reliable analytics solutions on Azure.
 
 ### What I Work On
 - Azure Data Factory, Azure Databricks, Azure Synapse, and ADLS Gen2
